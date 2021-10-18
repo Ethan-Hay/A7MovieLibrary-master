@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "enmdVJ4VnbK9R1XcAJHIpN8VYIEvodnhN2R8XWnZptycp9hbU10m90B3iBKlXZxVTJWsmg+Zb/9GGWbKe/rq7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\Downloads\\A7MovieLibrary-master\\A7MovieLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.2.21154.6\\microsoft.extensions.dependencyinjection.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.2.21154.6\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
